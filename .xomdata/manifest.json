@@ -1,1 +1,22 @@
-{}
+{
+  "practice/sql/easy/easy-select-001/solution.sql": "2b58b2ce8cbef83d8748e86533cfef06c7628dbc5d23f27b314ad833417cf102",
+  "practice/sql/easy/easy-select-002/solution.sql": "26649c7ed67781c4a8c2ea35d90f8e4b114226fba1a2b3e33206807c63f6eaf1",
+  "practice/sql/easy/easy-where-001/solution.sql": "487f7feda1e038d3896f26eb8c8d6d590ebf41d9547a7bf089fc9eea23862866",
+  "practice/sql/easy/easy-like-001/solution.sql": "3f4f67a2446e5284e1302d2d712c34a2475f334a7a6c593052c36670df292828",
+  "practice/sql/easy/easy-orderby-001/solution.sql": "1cbe35d657b2d417b0bc8b128d263cd482e9686dc9d597acc30b9269c46fb4aa",
+  "practice/sql/easy/easy-limit-002/solution.sql": "8638e7d5bacf9accd773900f374895e1c835c57332f36c22a5f262874fb22db0",
+  "practice/sql/easy/easy-distinct-006/solution.sql": "fdb16eda94af9eb3737eda3b0b73d49b79a72d6a29aeeb6b2f5fad4ff3d33c84",
+  "practice/sql/easy/easy-count-001/solution.sql": "92f03124ddf4339ae7a2536b5d93c9e1ea0739838780239d5797516c66d34101",
+  "practice/sql/easy/easy-sum-001/solution.sql": "36ec7ca271cec1ab28b7517a5c3dd4f1906eebf2489051b6b07ae4c292895254",
+  "practice/sql/easy/easy-avg-001/solution.sql": "f9bfe1b591a7ce18b904fe67b2b4a67a6eb8b864515ae45b71787b7dd5ca45ef",
+  "practice/sql/medium/medium-join-001/solution.sql": "53970d80070096097244b92528670f5b3e03e1d692b1ce6b39a1f7aaaecca8ad",
+  "practice/sql/medium/medium-leftjoin-031/solution.sql": "9307fae094c207cd7630ec307eb7426215eb2f84b203a7e4a4aaf13c8b7997c2",
+  "practice/sql/medium/medium-groupby-027/solution.sql": "77dfe3f10f2b5fdf12c694c3f7aef3efb03183902a6084147ea244e5db44fc9c",
+  "practice/sql/medium/medium-having-019/solution.sql": "724251f443094f58e25d836ccb53e7b310f1f82c1c8f46a608886c61683b792d",
+  "practice/sql/medium/medium-case-124/solution.sql": "0e736cc99bbaccd17d539a3d3e5834020857c6537a9e0b131152aa948baf65cf",
+  "practice/sql/medium/medium-subquery-103/solution.sql": "83f50acc2d5597c57760aa628b85e0cc4628aab337fc6783f65bfedf33c94d13",
+  "practice/sql/medium/medium-coalesce-040/solution.sql": "1539b521e6f0a2bf5a315830b7a2b0f88ca208041f549e8e1e93a28919a0d016",
+  "practice/sql/medium/medium-datefunction-045/solution.sql": "fb543dd0fabd3a8c3cb5ded18936a898b8add9983c1032dd9569f94264082236",
+  "practice/sql/medium/medium-union-175/solution.sql": "4942129a1ece254073bffb57052e603cbf781434e83ddbee55a6b683bc83d730",
+  "practice/sql/medium/medium-agg-127/solution.sql": "9e1addcd88f636cea4796ace7f218c8aa1df9169f8339cd16655cd33c991db4c"
+}

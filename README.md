@@ -3,7 +3,28 @@
 Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.com/practice).
 
 <!-- xomdata:stats:start -->
-_Not synced yet — connect this repo at [xomdata.com/settings](https://xomdata.com/settings) and hit **Sync**._
+
+**20** problems solved on [Xom Data](https://xomdata.com/practice).
+
+| Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
+|---|:---:|:---:|:---:|:---:|:---:|
+| SQL | 10 | 10 | 0 | 0 | 20 |
+
+**Recently solved**
+
+- [medium-agg-127](https://xomdata.com/practice/medium-agg-127) · Medium · 2026-11-16
+- [medium-union-175](https://xomdata.com/practice/medium-union-175) · Medium · 2026-10-24
+- [medium-datefunction-045](https://xomdata.com/practice/medium-datefunction-045) · Medium · 2026-10-24
+- [medium-coalesce-040](https://xomdata.com/practice/medium-coalesce-040) · Medium · 2026-10-23
+- [medium-subquery-103](https://xomdata.com/practice/medium-subquery-103) · Medium · 2026-10-23
+- [medium-case-124](https://xomdata.com/practice/medium-case-124) · Medium · 2026-10-23
+- [medium-having-019](https://xomdata.com/practice/medium-having-019) · Medium · 2026-10-23
+- [medium-groupby-027](https://xomdata.com/practice/medium-groupby-027) · Medium · 2026-10-22
+- [medium-leftjoin-031](https://xomdata.com/practice/medium-leftjoin-031) · Medium · 2026-10-22
+- [medium-join-001](https://xomdata.com/practice/medium-join-001) · Medium · 2026-10-22
+
+_Synced 20 solutions · last update 2026-11-16_
+
 <!-- xomdata:stats:end -->
 
 ## About this repo
